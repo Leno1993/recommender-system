@@ -14,6 +14,10 @@ local_config.py
 
 #
 *.json
+*.png
+*.jpg
+*.jpeg
 
 # 本地文件
 local/*
+recommendation/data/
