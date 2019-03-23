@@ -20,4 +20,5 @@ local_config.py
 
 # 本地文件
 local/*
-recommendation/data/
+recommendation/data/*
+recommendation/bpr/data/*
